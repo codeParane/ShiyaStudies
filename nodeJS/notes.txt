@@ -1,0 +1,4 @@
+what -> its provide a runtime environment to execute js out of browser scope.
+how  -> take v8 engine and wrap it with C++ programs  -> node.js
+why  -> loosly coupled language, tons of libraris already available
+

@@ -1,0 +1,24 @@
+SQL
+Structured Query Language
+
+Database
+Tables
+
+"Thushy", "Virtusa", "SE", 
+
+
+NoSQL
+{
+  name : thushy,
+  company : virtusa,
+  position : SE,
+  courseId : 1,
+  courseName: ""
+}
+
+{
+  name : Parane
+  company : virtusa,
+  position : SE,
+  join : 12 sep 
+}
